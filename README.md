@@ -669,19 +669,6 @@ The project is intended to demonstrate Hibernate ORM and relational database con
 
 ---
 
-# 👨‍💻 Original Project Reference
-
-This project is a reproduction based on the publicly available:
-
-**Hibernate-ECommerce** repository by **the-ayush-ch0udhary**.
-
-Original repository:
-
-https://github.com/the-ayush-ch0udhary/Hibernate-ECommerce
-
-This README documents the reproduced project structure and functionality.
-
----
 
 ## 📄 License / Usage
 
